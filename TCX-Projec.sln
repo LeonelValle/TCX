@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCX", "AmazingProj\TCX.csproj", "{A5A2C69E-5703-40C0-8FFE-B632436E62EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A2C69E-5703-40C0-8FFE-B632436E62EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A2C69E-5703-40C0-8FFE-B632436E62EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A2C69E-5703-40C0-8FFE-B632436E62EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A2C69E-5703-40C0-8FFE-B632436E62EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {278A8D58-2B44-48F2-89C9-4EED00A80BAB}
+	EndGlobalSection
+EndGlobal
